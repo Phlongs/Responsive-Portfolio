@@ -329,7 +329,7 @@ input[type=submit] {
 @media screen and (max-width: 640px) {
   .main-section {
     padding: 30px;
-    margin-top: -130px;
+    margin-top: auto;
     margin-left: 15px;
     width: 95%;    
     float: left;
